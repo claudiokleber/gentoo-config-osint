@@ -96,4 +96,4 @@ The original project notes report Windows testing with simulated Linux cases. Re
 
 ## License
 
-A project license has not yet been selected. No license grant is included in this repository.
+Licensed under the GNU General Public License, version 3 only (GPL-3.0-only). See [LICENSE](LICENSE) for the full terms.

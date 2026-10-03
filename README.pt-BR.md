@@ -92,4 +92,4 @@ validado nesta etapa. Próximo passo: diagnóstico e simulação em Gentoo, depo
 e configuração com preservação de arquivos e verificação funcional.
 
 [Fontes do catálogo](docs/fontes.md) · [Histórico](CHANGELOG.md).
-Licença ainda a definir; nenhuma publicação remota nesta entrega.
+Licenciado sob a GNU General Public License, somente versão 3 (GPL-3.0-only). Veja os termos completos em [LICENSE](LICENSE).
